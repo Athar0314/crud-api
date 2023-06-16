@@ -1,0 +1,20 @@
+{
+    "data" : [
+        {
+            "fullname": "Athar Hossain",
+            "age": 25,
+            "email": "a@pwc.com",
+            "city": "Kolkata",
+            "phoneno": 8240764685,
+            "id":1
+        },
+        {
+            "fullname": "Athar",
+            "age": 25,
+            "email": "ashar7003@pwc.com",
+            "city": "Bangalore",
+            "phoneno": 9804342136,
+            "id":2
+        }
+    ]
+}
