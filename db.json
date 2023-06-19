@@ -1,7 +1,7 @@
 {
     "data" : [
         {
-            "fullname": "Athar Hossain",
+            "name": "Athar Hossain",
             "age": 25,
             "email": "a@pwc.com",
             "city": "Kolkata",
@@ -9,7 +9,7 @@
             "id":1
         },
         {
-            "fullname": "Athar",
+            "name": "Athar",
             "age": 25,
             "email": "ashar7003@pwc.com",
             "city": "Bangalore",
