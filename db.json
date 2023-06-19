@@ -5,7 +5,9 @@
             "age": 25,
             "email": "a@pwc.com",
             "city": "Kolkata",
-            "phoneno": 8240764685,
+            "phone": 8240764685,
+            "education": "Graduate",
+            "gender": "male",
             "id":1
         },
         {
@@ -13,7 +15,9 @@
             "age": 25,
             "email": "ashar7003@pwc.com",
             "city": "Bangalore",
-            "phoneno": 9804342136,
+            "phone": 9804342136,
+            "education": "Post Graduate",
+            "gender": "male",
             "id":2
         }
     ]
